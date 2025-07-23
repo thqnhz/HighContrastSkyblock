@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "description": "A High Contrast resourcepack for Hypixel Skyblock. Supports almost every mods!",
+    "pack_format": 63,
+    "supported_formats": [55, 63]
+  }
+}
