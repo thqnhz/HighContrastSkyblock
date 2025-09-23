@@ -25,5 +25,6 @@ jobs:
         uses: softprops/action-gh-release@v2
         with:
           files: "HCSkyblock-${{ github.ref_name }}.zip"
+          body_path: CHANGELOG.txt
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
