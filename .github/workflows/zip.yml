@@ -15,7 +15,7 @@ jobs:
 
       - name: Create ZIP archive
         run: |
-          zip -r "resourcepack-${{ github.ref_name }}.zip" . \
+          zip -r "HCSkyblock-${{ github.ref_name }}.zip" . \
           -x ".git/*" ".github/*"
 
       - name: Upload Release
