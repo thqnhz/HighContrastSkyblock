@@ -2,14 +2,16 @@
 
 ## Currently supports:
 
-- Skyblocker
-- Skyblock Tweaks
-- Firmament
-- REI
+- Some of the base game textures
+- [Skyblocker](<https://modrinth.com/mod/skyblocker-liap>)
+- [Skyblock Tweaks](<https://modrinth.com/mod/sbt>)
+- [Skyblock PV](<https://modrinth.com/mod/skyblock-profile-viewer>)
+- [Firmament](<https://modrinth.com/mod/firmament>)
+- [REI](<https://modrinth.com/mod/rei>)
 
-More coming _soon_™️
+>More coming *soon™*
 
-## Color pallete:
+## Color pallete
 
 |Color     |HEX     |
 |----------|--------|
