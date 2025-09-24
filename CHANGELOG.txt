@@ -1,0 +1,3 @@
+Changes for version 0.3.0-beta
+
+- Added Skyblocker's profile viewer
