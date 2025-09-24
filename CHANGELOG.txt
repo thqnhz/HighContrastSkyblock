@@ -1,3 +1,4 @@
-Changes for version 0.3.0-beta
+Changes for version 0.4.0-beta
 
-- Added Skyblocker's profile viewer
+- Added Skyblock PV mod support
+> You must change the theme in the mod's config to High Contrast for it to work!

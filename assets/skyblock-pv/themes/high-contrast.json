@@ -1,0 +1,39 @@
+{
+    "name": "High Contrast",
+    "textures": {
+        "skyblock-pv:textures/gui/inventory/poly.png": "skyblock-pv:textures/highcontrast/inventory/poly.png",
+        "skyblock-pv:textures/gui/inventory/mono.png": "skyblock-pv:textures/highcontrast/inventory/mono.png",
+        "skyblock-pv:buttons/normal": "skyblock-pv:highcontrast/buttons/normal",
+        "skyblock-pv:buttons/disabled": "skyblock-pv:highcontrast/buttons/disabled",
+        "skyblock-pv:box/box": "skyblock-pv:highcontrast/box/box",
+        "skyblock-pv:box/rounded_box_thin": "skyblock-pv:highcontrast/box/rounded_box_thin",
+        "skyblock-pv:box/title": "skyblock-pv:highcontrast/box/title",
+        "skyblock-pv:tabs/top/hovered": "skyblock-pv:highcontrast/tabs/top/hovered",
+        "skyblock-pv:tabs/top/normal": "skyblock-pv:highcontrast/tabs/top/normal",
+        "skyblock-pv:tabs/top/selected_hovered": "skyblock-pv:highcontrast/tabs/top/selected_hovered",
+        "skyblock-pv:tabs/top/selected": "skyblock-pv:highcontrast/tabs/top/selected",
+        "skyblock-pv:tabs/left/hovered": "skyblock-pv:highcontrast/tabs/left/hovered",
+        "skyblock-pv:tabs/left/normal": "skyblock-pv:highcontrast/tabs/left/normal",
+        "skyblock-pv:tabs/left/selected_hovered": "skyblock-pv:highcontrast/tabs/left/selected_hovered",
+        "skyblock-pv:tabs/left/selected": "skyblock-pv:highcontrast/tabs/left/selected",
+        "skyblock-pv:tabs/right/hovered": "skyblock-pv:highcontrast/tabs/right/hovered",
+        "skyblock-pv:tabs/right/normal": "skyblock-pv:highcontrast/tabs/right/normal",
+        "skyblock-pv:tabs/right/selected_hovered": "skyblock-pv:highcontrast/tabs/right/selected_hovered",
+        "skyblock-pv:tabs/right/selected": "skyblock-pv:highcontrast/tabs/right/selected",
+        "olympus:buttons/dark/normal": "skyblock-pv:highcontrast/buttons/normal",
+        "olympus:buttons/dark/hovered": "skyblock-pv:highcontrast/buttons/disabled",
+        "olympus:textbox/normal": "skyblock-pv:highcontrast/textbox/normal",
+        "olympus:textbox/hovered": "skyblock-pv:highcontrast/textbox/hovered",
+        "skyblock-pv:opaque/buttons/dark/normal": "skyblock-pv:highcontrast/opaque/buttons/dark/normal",
+        "skyblock-pv:opaque/buttons/dark/hovered": "skyblock-pv:highcontrast/opaque/buttons/dark/hovered",
+        "skyblock-pv:opaque/buttons/primary/normal": "skyblock-pv:highcontrast/opaque/buttons/primary/normal",
+        "skyblock-pv:opaque/buttons/primary/hovered": "skyblock-pv:highcontrast/opaque/buttons/primary/hovered",
+        "skyblock-pv:opaque/buttons/disabled": "skyblock-pv:highcontrast/opaque/buttons/dark/normal",
+        "skyblock-pv:progressbar/background": "skyblock-pv:highcontrast/progressbar/background",
+        "skyblock-pv:progressbar/foreground": "skyblock-pv:highcontrast/progressbar/foreground",
+        "skyblock-pv:progressbar/foreground_maxed": "skyblock-pv:highcontrast/progressbar/foreground_maxed"
+    },
+    "colors": {
+        "dark_gray": "#FFFFFF"
+    }
+}
